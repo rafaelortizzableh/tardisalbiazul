@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tardisalbiazul
+- 👀 I’m interested in web development and mobile development. 
+- 🌱 I’m currently learning Flutter, NodeJS and React. 
+- 💞️ I’m looking to collaborate on open source projects on any of the technologies, as most of the work I've done has been done for companies I've worked for. 
+- 📫 How to reach me: you can find me on [Linkedin](https://www.linkedin.com/in/rafaelortizzableh/ "Rafael Ortiz Zableh - Linkedin")
