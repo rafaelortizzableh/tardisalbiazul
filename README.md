@@ -15,9 +15,9 @@ Tomorrow? Doing something great, hopefully. One life -> Many lives.
 
 ### ✉️ Where you can contact me:
 
-[<img align="left" alt="Rafa Ortiz | Linkedin" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] ->  (Linkedin)[linkedin]
+[<img align="left" alt="Rafa Ortiz | Linkedin" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] ->  [Linkedin](https://www.linkedin.com/in/rafaelortizzableh/)
 <br>
-[<img align="left" alt="Rafa Ortiz | Twitter" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  -> (Twitter)[https://twitter.com/ortizzableh]
+[<img align="left" alt="Rafa Ortiz | Twitter" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  -> [Twitter](https://twitter.com/ortizzableh)
 
 <br />
 
