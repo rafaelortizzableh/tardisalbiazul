@@ -1,5 +1,21 @@
-- 👋 Hi, I’m @tardisalbiazul
-- 👀 I’m interested in web development and mobile development. 
-- 🌱 I’m currently learning Flutter, NodeJS and React. 
-- 💞️ I’m looking to collaborate on open source projects on any of the technologies, as most of the work I've done has been done for private entities. 
-- 📫 You can find me on [Linkedin](https://www.linkedin.com/in/rafaelortizzableh/ "Rafael Ortiz Zableh - Linkedin")
+### 👋 Hi, I'm Rafa Ortiz
+
+## A little bit about me 🤓
+- 💙 I'm creating awesome stuff with Flutter and do most of my coding in Dart, but I'm familar with Javascript and I'm (slowly but steadily) learning GO.
+- 🔴 I'm part of [Red Mars](https://redmars.es), a small digital consultancy.
+
+Today I'm based in Barcelona and I'm a Software Developer.
+Yesterday I lived in Bogotá and was a marketeer. Before that a tv/radio journalist. 
+At some point in the past I've been a student in Saint Paul, MN and Bucaramanga, Colombia.
+
+Tomorrow? Doing something great, hopefully. One life -> Many lives.
+
+## ✉️ Where you can contact me:
+
+[<img align="left" alt="Rafa Ortiz | Linkedin" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rafa Ortiz | Twitter" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+<br />
+
+[twitter]: https://twitter.com/ortizzableh
+[linkedin]: https://www.linkedin.com/in/rafaelortizzableh/
