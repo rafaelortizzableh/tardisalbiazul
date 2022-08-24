@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Rafa Ortiz
+## 👋 Hi, I'm Rafa
 
 ### A little bit about me:
 - 💙 I'm creating awesome stuff with Flutter and do most of my coding in Dart, but I'm familar with Javascript and I'm (slowly but steadily) learning GO.
