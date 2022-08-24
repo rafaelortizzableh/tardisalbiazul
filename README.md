@@ -5,16 +5,19 @@
 - 🔴 I'm part of [Red Mars](https://redmars.es), a small digital consultancy.
 
 Today I'm based in Barcelona and I'm a Software Developer.
+<br>
 Yesterday I lived in Bogotá and was a marketeer. Before that a tv/radio journalist. 
+<br>
 At some point in the past I've been a student in Saint Paul, MN and Bucaramanga, Colombia.
+<br>
 
 Tomorrow? Doing something great, hopefully. One life -> Many lives.
 
 ### ✉️ Where you can contact me:
 
-[<img align="left" alt="Rafa Ortiz | Linkedin" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -> Linkedin
+[<img align="left" alt="Rafa Ortiz | Linkedin" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] ->  (Linkedin)[linkedin]
 <br>
-[<img align="left" alt="Rafa Ortiz | Twitter" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -> Twitter
+[<img align="left" alt="Rafa Ortiz | Twitter" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  -> (Twitter)[twitter]
 
 <br />
 
