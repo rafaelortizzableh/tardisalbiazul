@@ -6,7 +6,7 @@
 
 Today I'm based in Barcelona and I'm a Software Developer.
 <br>
-Yesterday I lived in Bogotá and was a marketeer. Before that a tv/radio journalist. 
+Yesterday I lived in Bogotá and was a marketeer. And a tv/radio journalist before that.
 <br>
 At some point in the past I've been a student in Saint Paul, MN and Bucaramanga, Colombia.
 <br>
