@@ -17,7 +17,7 @@ Tomorrow? Doing something great, hopefully. One life -> Many lives.
 
 [<img align="left" alt="Rafa Ortiz | Linkedin" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] ->  (Linkedin)[linkedin]
 <br>
-[<img align="left" alt="Rafa Ortiz | Twitter" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  -> (Twitter)[twitter]
+[<img align="left" alt="Rafa Ortiz | Twitter" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  -> (Twitter)[https://twitter.com/ortizzableh]
 
 <br />
 
