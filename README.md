@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Rafa Ortiz
 
-### A little bit about me 🤓
+### A little bit about me:
 - 💙 I'm creating awesome stuff with Flutter and do most of my coding in Dart, but I'm familar with Javascript and I'm (slowly but steadily) learning GO.
 - 🔴 I'm part of [Red Mars](https://redmars.es), a small digital consultancy.
 
